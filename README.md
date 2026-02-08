@@ -46,16 +46,14 @@
 
 ```sql
 -- 见 database/schema.sql 文件
-
 ```
 
 # 克隆项目
-git clone https://github.com/你的用户名/github-user-explorer.git
-
+```
+git clone https://github.com/laddzhao/github-user-explorer.git
 # 打开index.html直接运行
 # 无需安装依赖！
 ```
-
 ## 🤝 贡献
 欢迎提交Issue和Pull Request！
 
