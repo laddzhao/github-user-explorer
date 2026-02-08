@@ -38,3 +38,11 @@ git clone https://github.com/你的用户名/github-user-explorer.git
 
 # 打开index.html直接运行
 # 无需安装依赖！
+```
+
+## 🤝 贡献
+欢迎提交Issue和Pull Request！
+
+## 📄 许可证
+MIT License
+
