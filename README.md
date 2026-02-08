@@ -32,7 +32,23 @@
 
 ## 🔧 本地开发
 
-```bash
+## 🗄️ 数据库配置
+
+本项目使用Supabase作为后端数据库。你需要：
+
+### 1. 创建Supabase项目
+1. 访问 [supabase.com](https://supabase.com) 注册
+2. 创建新项目
+3. 获取你的项目URL和匿名公钥
+
+### 2. 初始化数据库
+运行以下SQL（在Supabase SQL编辑器中）：
+
+```sql
+-- 见 database/schema.sql 文件
+
+```
+
 # 克隆项目
 git clone https://github.com/你的用户名/github-user-explorer.git
 
