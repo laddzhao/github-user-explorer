@@ -9,8 +9,8 @@
     <!-- Open Graph 社交媒体分享 -->
     <meta property="og:title" content="GitHub用户探索平台">
     <meta property="og:description" content="一个现代化的GitHub用户查询工具">
-    <meta property="og:image" content="https://laddzhao.github.io/github-user-explorer/assets/preview.png">
-    <meta property="og:url" content="https://laddzhao.github.io/github-user-explorer">
+    <meta property="og:image" content="https://zlyup.github.io/github-user-explorer/assets/preview.png">
+    <meta property="og:url" content="https://zlyup.github.io/github-user-explorer">
 
     <!-- Twitter Card -->
     <meta name="twitter:card" content="summary_large_image">
@@ -564,7 +564,7 @@
         <div class="main-area">
             <div class="left-panel">
                 <div class="search-box">
-                    <input type="text" id="usernameInput" placeholder="输入GitHub用户名，例如: facebook, vuejs, laddzhao">
+                    <input type="text" id="usernameInput" placeholder="输入GitHub用户名，例如: facebook, vuejs, zlyup">
                     <button onclick="searchUser()"><i class="fas fa-search"></i> 探索</button>
                 </div>
                 <div id="userCard" class="user-card"></div>
@@ -599,7 +599,7 @@
         async function searchUser() {
             const username = document.getElementById('usernameInput').value.trim();
             if (!username) {
-                alert('laddzhao');
+                alert('zlyup');
                 return;
             }
             console.log(`[Debug] 开始搜索用户: ${username}`);
