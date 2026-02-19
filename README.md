@@ -22,7 +22,7 @@
 
 ## 🚀 快速开始
 
-1. 访问 [在线演示](https://laddzhao.github.io/github-user-explorer)
+1. 访问 [在线演示](https://zlyup.github.io/github-user-explorer)
 2. 输入GitHub用户名（如：facebook、vuejs、torvalds）
 3. 查看用户信息和仓库列表
 
@@ -50,7 +50,7 @@
 
 # 克隆项目
 ```
-git clone https://github.com/laddzhao/github-user-explorer.git
+git clone https://github.com/zlyup/github-user-explorer.git
 # 打开index.html直接运行
 # 无需安装依赖！
 ```
